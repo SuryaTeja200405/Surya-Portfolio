@@ -31,9 +31,9 @@ This website showcases my skills, projects, and achievements as a developer. It 
 
 ## 📬 Contact Me
 Feel free to reach out via:
-- **Email:** your@email.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter/X:** [@yourhandle](https://x.com/yourhandle)
+- **Email:** yellaboinasuryateja@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/surya-teja-yellaboyina/)
+- **Twitter/X:** [@yourhandle](https://x.com/Surya_teja_05)
 
 ---
 
